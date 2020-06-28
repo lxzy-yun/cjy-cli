@@ -1,6 +1,6 @@
 {
   "name": "cjy-cli",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "项目初始化命令行工具",
   "main": "index.js",
   "scripts": {
